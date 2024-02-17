@@ -1,4 +1,5 @@
-const API_KEY = "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";
+// const API_KEY = "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";
+const API_KEY = "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"
 const chatInput = document.getElementById("chat-input");
 const sendBtn = document.getElementById("sent-btn");
 const themeBtn = document.getElementById("theme-btn");
